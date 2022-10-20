@@ -26,6 +26,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "@hapi/hapi": "^20.2.2"
+    "@hapi/hapi": "^20.2.2",
+    "pg": "^8.8.0"
   }
 }
